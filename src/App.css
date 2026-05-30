@@ -217,3 +217,53 @@ input[type="range"] {
   font-size: 12px;
   padding-bottom: 40px;
 }
+
+.card h2 {
+  color: #0f172a;
+  font-weight: 800;
+}
+
+.card p {
+  color: #334155;
+}
+
+.card label {
+  color: #475569;
+  font-weight: 600;
+}
+
+.card input {
+  color: #0f172a;
+}
+
+.input-wrap span,
+.rate-box span {
+  color: #475569;
+}
+
+.rate-box .row > span {
+  color: #0f172a;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.mini-input {
+  color: #0f172a;
+  font-weight: 800;
+}
+
+.unit {
+  color: #334155 !important;
+  font-weight: 700;
+}
+
+.card .between h2 {
+  color: #16a34a;
+  font-size: 28px;
+}
+
+.card .between p {
+  color: #0f172a;
+  font-size: 20px;
+  font-weight: 700;
+}
